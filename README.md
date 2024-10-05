@@ -14,6 +14,13 @@ I'm always excited to collaborate on new projects and connect with fellow develo
 
 ## 🛠 My Tech Stack
 
+### 🪐 Basics
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,sass,css,javascript" />
+  </a>
+</p>
+
 ### ⚡ Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
