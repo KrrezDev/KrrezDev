@@ -1,7 +1,7 @@
 # Hi there! 👋 
 
 ## About Me
-Hi! I'm Kevin, a passionate Web Developer with a B2 level in English. As a Systems Engineering graduate, I'm constantly driven by my enthusiasm for learning and technology. Let me share a bit about myself:
+Hi I'm Kevin, a passionate Web Developer with a B2 level in English. As a Systems Engineering graduate, I'm constantly driven by my enthusiasm for learning and technology. Let me share a bit about myself:
 
 - 🎓 I hold a degree in Systems Engineering
 - 💻 I'm a Web Developer who loves creating and building solutions
