@@ -24,7 +24,7 @@ I'm always excited to collaborate on new projects and connect with fellow develo
 ### ⚡ Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,django,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,angular,django,nextjs,tailwind,boostrap,nextui,materialui,more.." />
   </a>
 </p>
 
